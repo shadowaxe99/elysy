@@ -3,6 +3,9 @@
     "@/components/ui/",
     "@/lib/utils",
     "@radix-ui/react-dropdown-menu",
-    "framer-motion"
+    "framer-motion",
+    "next",
+    "react",
+    "react-dom"
   ]
 }
